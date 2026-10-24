@@ -1,0 +1,12 @@
+InternNova Week 6 Final Data Analytics Project
+
+Project Title: Sales Data Analytics Dashboard
+
+Objective:
+To analyze sales data and create meaningful business insights using Python, data visualization, and Power BI.
+
+Tools Used:
+Python, Pandas, Matplotlib, Seaborn, Power BI, Git, GitHub.
+
+Submission Method:
+Google Drive

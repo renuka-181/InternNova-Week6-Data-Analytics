@@ -1,0 +1,16 @@
+TASK 7: BUSINESS INSIGHTS & RECOMMENDATIONS
+==================================================
+
+BUSINESS INSIGHTS
+1. Highest Revenue Company: Pacific Union Real Estate with revenue 5,528,202,691.
+2. Lowest Revenue Company: Cloud for Good with revenue 1,953,000.
+3. Most Represented Industry: IT Services with 733 companies.
+4. Highest Average Revenue Industry: Energy; average revenue 186,229,821.60, based on 116 companies.
+5. Highest Average Growth Industry: Consumer Products & Services; average growth 1331.79.
+
+BUSINESS RECOMMENDATIONS
+1. Study the business practices of high-revenue companies to identify approaches that may be useful for other businesses.
+2. Compare revenue and growth across industries before deciding where to invest resources. Consider company counts and market risks.
+3. Investigate lower-revenue companies to understand possible challenges; revenue alone does not prove poor performance.
+
+Note: Findings describe the Inc5000 Company List 2014 dataset. They do not represent a Sales dashboard analysis.

@@ -1,0 +1,10 @@
+InternNova Week 6 Project Plan
+
+1. Select and inspect the sales dataset.
+2. Clean missing and duplicate values.
+3. Perform exploratory data analysis using Python.
+4. Create at least five visualizations.
+5. Build an interactive Power BI dashboard.
+6. Identify five business insights.
+7. Provide two business recommendations.
+8. Prepare the final report and presentation.
