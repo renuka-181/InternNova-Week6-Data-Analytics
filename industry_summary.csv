@@ -1,0 +1,26 @@
+industry,company_count,average_revenue,average_growth
+Advertising & Marketing,453,16152480.62,519.89
+Business Products & Services,435,39482951.22,439.66
+Computer Hardware,34,33797363.0,342.12
+Construction,198,52234230.99,403.42
+Consumer Products & Services,230,46725262.74,1331.79
+Education,78,15144040.45,367.44
+Energy,116,186229821.6,970.04
+Engineering,66,20326657.65,424.52
+Environmental Services,54,14611879.56,223.88
+Financial Services,278,43928930.01,572.45
+Food & Beverage,132,49098833.91,963.14
+Government Services,212,29933639.28,594.71
+Health,377,58416116.84,637.63
+Human Resources,199,61178100.24,224.29
+IT Services,733,26416899.07,347.7
+Insurance,67,67914999.31,243.81
+Logistics & Transportation,132,84912032.91,266.17
+Manufacturing,212,35218379.54,238.5
+Media,60,18283881.52,436.93
+Real Estate,131,67836426.34,576.9
+Retail,200,41809351.25,529.52
+Security,68,48362315.84,484.53
+Software,338,21316666.09,557.11
+Telecommunications,135,69162768.36,438.29
+Travel & Hospitality,62,58785906.21,547.3
